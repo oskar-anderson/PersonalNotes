@@ -1,0 +1,40 @@
+System:
+  Host: laptop Kernel: 5.4.0-58-generic x86_64 bits: 64 
+  Desktop: Cinnamon 5.2.7 Distro: Linux Mint 20.3 Una 
+Machine:
+  Type: Laptop System: LENOVO product: 81F4 v: Lenovo ideapad 330S-14IKB 
+  serial: <superuser/root required> 
+  Mobo: LENOVO model: LNVNB161216 v: SDK0J40700 WIN 
+  serial: <superuser/root required> UEFI: LENOVO v: 7SCN18WW 
+  date: 04/27/2018 
+Battery:
+  ID-1: BAT0 charge: 0 Wh condition: 22.5/30.0 Wh (75%) 
+CPU:
+  Topology: Quad Core model: Intel Core i5-8250U bits: 64 type: MT MCP 
+  L2 cache: 6144 KiB 
+  Speed: 700 MHz min/max: 400/3400 MHz Core speeds (MHz): 1: 700 2: 700 
+  3: 701 4: 700 5: 701 6: 700 7: 694 8: 700 
+Graphics:
+  Device-1: Intel UHD Graphics 620 driver: i915 v: kernel 
+  Display: x11 server: X.Org 1.20.8 driver: modesetting unloaded: fbdev,vesa 
+  resolution: 1920x1080~60Hz 
+  OpenGL: renderer: Mesa Intel UHD Graphics 620 (KBL GT2) v: 4.6 Mesa 21.2.6 
+Audio:
+  Device-1: Intel Sunrise Point-LP HD Audio driver: snd_hda_intel 
+  Sound Server: ALSA v: k5.4.0-58-generic 
+Network:
+  Device-1: Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter 
+  driver: ath10k_pci 
+  IF: wlp1s0 state: up mac: 50:5b:c2:f4:07:55 
+  Device-2: Qualcomm Atheros type: USB driver: btusb 
+Drives:
+  Local Storage: total: 238.47 GiB used: 96.68 GiB (40.5%) 
+  ID-1: /dev/sda vendor: SK Hynix model: HFS256G39TNF-N3A0A size: 238.47 GiB 
+Partition:
+  ID-1: / size: 91.17 GiB used: 47.29 GiB (51.9%) fs: ext4 dev: /dev/sda2 
+Sensors:
+  System Temperatures: cpu: 32.5 C mobo: 0.0 C 
+  Fan Speeds (RPM): N/A 
+Info:
+  Processes: 246 Uptime: N/A Memory: 5.72 GiB used: 839.9 MiB (14.3%) 
+  Shell: bash inxi: 3.0.38 
