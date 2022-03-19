@@ -1,0 +1,46 @@
+System:
+  Host: zimo-MS-7917 Kernel: 5.4.0-58-generic x86_64 bits: 64 
+  Desktop: Cinnamon 4.8.5 Distro: Linux Mint 20.1 Ulyssa 
+Machine:
+  Type: Desktop Mobo: MSI model: Z97 GAMING 5 (MS-7917) v: 1.0 
+  serial: <superuser/root required> UEFI: American Megatrends v: 1.13 
+  date: 02/16/2016 
+CPU:
+  Topology: Quad Core model: Intel Core i5-4690K bits: 64 type: MCP 
+  L2 cache: 6144 KiB 
+  Speed: 1500 MHz min/max: 800/3900 MHz Core speeds (MHz): 1: 1500 2: 1501 
+  3: 1500 4: 1500 
+Graphics:
+  Device-1: NVIDIA GP106 [GeForce GTX 1060 6GB] driver: nvidia v: 495.44 
+  Display: x11 server: X.Org 1.20.8 driver: nvidia 
+  unloaded: fbdev,modesetting,nouveau,vesa 
+  resolution: 1920x1080~60Hz, 1920x1080~60Hz 
+  OpenGL: renderer: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 
+  v: 4.6.0 NVIDIA 495.44 
+Audio:
+  Device-1: Intel 9 Series Family HD Audio driver: snd_hda_intel 
+  Device-2: NVIDIA GP106 High Definition Audio driver: snd_hda_intel 
+  Device-3: C-Media Audio Adapter (Unitek Y-247A) type: USB 
+  driver: hid-generic,snd-usb-audio,usbhid 
+  Sound Server: ALSA v: k5.4.0-58-generic 
+Network:
+  Device-1: Qualcomm Atheros Killer E220x Gigabit Ethernet driver: alx 
+  IF: enp3s0 state: up speed: 1000 Mbps duplex: full mac: d8:cb:8a:53:cb:b8 
+  Device-2: Realtek RTL8188EE Wireless Network Adapter driver: rtl8188ee 
+  IF: wlp4s0 state: down mac: 50:3e:aa:e1:35:a8 
+Drives:
+  Local Storage: total: 2.63 TiB used: 80.93 GiB (3.0%) 
+  ID-1: /dev/sda vendor: Kingston model: SKC600256G size: 238.47 GiB 
+  ID-2: /dev/sdb vendor: Western Digital model: WD10EURX-63FH1Y0 
+  size: 931.51 GiB 
+  ID-3: /dev/sdc vendor: Samsung model: HD403LJ size: 372.61 GiB 
+  ID-4: /dev/sdd vendor: Kingston model: SA400S37240G size: 223.57 GiB 
+  ID-5: /dev/sde vendor: Toshiba model: DT01ACA100 size: 931.51 GiB 
+Partition:
+  ID-1: / size: 170.18 GiB used: 40.46 GiB (23.8%) fs: ext4 dev: /dev/sdc5 
+Sensors:
+  System Temperatures: cpu: 36.0 C mobo: N/A gpu: nvidia temp: 35 C 
+  Fan Speeds (RPM): N/A gpu: nvidia fan: 49% 
+Info:
+  Processes: 222 Uptime: 1m Memory: 15.59 GiB used: 891.8 MiB (5.6%) 
+  Shell: bash inxi: 3.0.38 
